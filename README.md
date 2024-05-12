@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on
 
-[Partineh](https://partineh.com) && [Freelancer Projects](https://majid.codes) 
+[Lechool](https://lechool.com) && [Partineh](https://partineh.com) && [Freelancer Projects](https://majid.codes) 
 
 ⚡ I'm looking for opportunities in:
 
