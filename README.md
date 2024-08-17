@@ -9,7 +9,8 @@
 ⚡ I'm looking for opportunities in:
 
     <?php
-    protected void javaForAndroid()
+    def Python():
     $(document).getElementById('JavaScript')
+    protected void javaForAndroid()
     
-💬 By the way, I'm open to talking about any technical development.
+💬 For enterprise projects contact me (mjalilian.majid -at- gmail -dot- com)
