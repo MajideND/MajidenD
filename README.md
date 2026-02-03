@@ -12,5 +12,6 @@
     def Python():
     $(document).getElementById('JavaScript')
     protected void javaForAndroid()
+    def new_to_ruby
     
 💬 For enterprise projects contact me (mjalilian.majid -at- gmail -dot- com)
